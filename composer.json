@@ -1,0 +1,12 @@
+{
+    "name": "solarcms/chart",
+    "description": "chart",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "altaihero",
+            "email": "s4_hero@yahoo.com"
+        }
+    ],
+    "require": {}
+}
