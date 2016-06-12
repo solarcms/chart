@@ -49,6 +49,13 @@ class ChartContainer extends Component {
            "marginLeft": 40,
            "autoMarginOffset": 20,
            "mouseWheelZoomEnabled":true,
+            "legend": {
+                "equalWidths": false,
+                "periodValueText": "",
+                "position": "top",
+                "valueAlign": "left",
+                "valueWidth": 100
+            },
            language:'mn',
            "dataDateFormat": "YYYY-MM-DD",
            "valueAxes": [{
